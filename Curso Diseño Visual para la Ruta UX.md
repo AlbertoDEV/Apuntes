@@ -570,3 +570,113 @@ Para estudiar de manera efectiva usando el método de John Dunlosky:
 ✔ **Espacia tu aprendizaje** en diferentes días para recordar mejor.
 
 ---
+
+# Curso Avanzado de Tipografía
+
+## 1️⃣ Introducción al Curso
+
+¡Hola! Soy Pariah Burke. Bienvenido a mi curso de **Tipografía Avanzada**. He disfrutado de una larga carrera como diseñador y tipógrafo, trabajando con algunas de las marcas más reconocidas del mundo, como Time Warner, Adobe y Playboy. Soy autor de **Mastering InDesign** y ocho libros más, de dos docenas de cursos de video en Pluralsight y de más de 450 artículos y tutoriales publicados sobre tipografía, InDesign, Illustrator, Photoshop, e‑publishing y otros temas relacionados con el diseño.
+
+**"El diseño es cómo te ves; la tipografía es cómo suenas."** Una tipografía es el tono de voz con el que la mente escucha tu mensaje escrito.
+
+En este curso **Tipografía Avanzada**, aprenderás a dominar la tipografía y las fuentes. Primero, en el módulo **Mastering Fonts**, te convertirás en un experto en fuentes, aprendiendo sobre las fuentes y la estructura de las mismas, incluyendo la licencia de fuentes. También aprenderás cómo encontrar cualquier carácter, símbolo o glifo en una fuente, e incluso dónde acudir para agregar los tuyos propios o corregir errores o discrepancias estilísticas en las fuentes que deseas usar. En la segunda mitad del curso, **Mastering Typography**, aprenderás a identificar las tipografías con mayor especificidad que solo serif o sans-serif, sobre las familias de fuentes y superfamilias, estrategias y combinaciones de muestra para elegir fuentes complementarias y familias para legibilidad, contraste tipográfico, estado de ánimo, proporción, y mucho más. Además, verás las mejores prácticas para la tipografía en pantalla, incluidos herramientas y scripts que puedes agregar a tu sitio web o blog de WordPress para hacer que tu texto en línea sea hermoso.
+
+Espero que te unas a mí en este viaje para dominar las fuentes y la tipografía con el curso **Tipografía Avanzada** en Pluralsight.
+
+---
+
+## 2️⃣ Mastering Fonts - Dominando las Fuentes
+
+**Contenidos**
+
+El curso **Tipografía Avanzada** comienza dominando la tecnología de la tipografía: las **fuentes**. Empezaremos hablando sobre la **licencia de fuentes** para entender que las fuentes son software y están gobernadas por licencias que otorgan y restringen usos específicos. Aprenderás qué buscar y cómo elegir una licencia para usos apropiados. Comenzaremos con unos titulares alarmantes sobre personas y organizaciones que no siguieron los consejos en este clip, y aprenderás estrategias para mantenerte en el lado correcto de la ley y fuera de los tribunales por el uso de fuentes en tu organización, por parte de empleados y proveedores.
+
+En el clip **Font Embedding**, verás las tecnologías y métodos disponibles para distribuir fuentes, asegurando que tu tipo se muestre exactamente como lo diseñaste. 
+
+En el clip **Font Formats**, verás una visión general de los formatos de fuente modernos en uso generalizado actualmente, así como una lista más larga de formatos de fuentes obsoletos y de nicho. Aprenderás sobre cada uno de los formatos de fuente modernos, incluyendo sus fortalezas y debilidades, y un poco sobre el origen de cada uno. Muchos creen que las fuentes **PostScript Type 1** de Adobe están obsoletas, pero en realidad están en el corazón del formato de fuente profesional más moderno y comúnmente utilizado hoy y en el futuro. Aprenderás sobre el formato **Type 1** en este clip antes de conocer lo que evolucionó a partir de él.
+
+Las fuentes **TrueType** son el formato de fuente más común y prevalente, pero ¿es el mejor formato de fuente? ¿Cómo se hicieron tan populares? ¿Deben los diseñadores profesionales usarlas? Aprenderás esas respuestas y más en este clip.
+
+El formato de fuente **OpenType** es la evolución y convergencia tanto de **PostScript Type 1** como de **TrueType**. Aprenderás por qué OpenType fue una revolución en la composición digital y cómo garantiza el futuro de la tipografía digital. La segunda extensión más emocionante del formato de fuente OpenType son las **fuentes variables**, también conocidas como **OpenType Font Variations**. En este clip, aprenderás por qué son tan emocionantes y creativamente liberadoras.
+
+Antes de terminar tu introducción a los formatos de fuentes modernas, verás **fuentes cromáticas** o **color fonts**, también llamadas **OpenType-SVG** o **emoji fonts**. Este será uno de los desarrollos más emocionantes en la historia de las fuentes, y verás cómo revolucionan la manera en que podemos trabajar con tipografía digital.
+
+Finalmente, se te presentará **WOFF** y **EOT**: formatos de fuente creados específicamente para habilitar una mejor tipografía web.
+
+Cerrando el módulo **Mastering Fonts**, se te mostrará cómo están formadas las fuentes modernas y cómo puedes editarlas o incluso crear tus propias fuentes.
+
+---
+
+## 3️⃣ Mastering Typography - Dominando la Tipografía
+
+En la segunda parte del curso, profundizaremos en la tipografía en sí. Aquí aprenderás:
+
+- Cómo identificar fuentes con mayor especificidad, más allá de solo saber si son serif o sans-serif.
+- Cómo combinar fuentes y familias de fuentes de manera efectiva para lograr legibilidad, contraste tipográfico y armonía visual.
+- Estrategias para la selección de fuentes que reflejen el **estado de ánimo** y **proporción** correcta para tu diseño.
+- Las mejores prácticas para trabajar con tipografía en pantalla, con herramientas y scripts que puedes agregar a tu sitio web o blog de WordPress.
+
+Este módulo también cubrirá los conceptos fundamentales de la tipografía en pantalla, para garantizar que tu texto no solo sea legible, sino también estéticamente agradable y funcional.
+
+---
+
+## 4️⃣ Principales Técnicas y Conceptos
+
+### 4.1 Tipografía en Pantalla
+- Las fuentes que se usan en diseño digital deben ser legibles y optimizadas para diferentes tamaños y resoluciones de pantalla.
+  
+### 4.2 Contraste Tipográfico
+- **Contraste tipográfico:** Se refiere a la diferencia visual entre los elementos tipográficos (como el grosor de las líneas) y cómo estos elementos se combinan para formar la jerarquía visual en el texto.
+
+### 4.3 Selección de Fuentes para Web
+- Usar fuentes **legibles** que se adapten bien a diferentes resoluciones de pantalla es crucial para una buena tipografía en la web.
+
+---
+
+## 5️⃣ Métodos de Estudio Recomendados
+
+Para estudiar de manera efectiva este curso, sigue estas recomendaciones:
+
+✔ **Comprende** la teoría antes de memorizar.  
+✔ **Practica la recuperación** de información con ejercicios prácticos.  
+✔ **Explica los conceptos** a otras personas o en voz alta.  
+✔ **Espacia tu aprendizaje** en diferentes días para optimizar la memoria a largo plazo.
+
+---
+
+## 🃏 TARJETAS DE MEMORIA (FLASHCARDS)
+
+### 💡 TARJETA 1  
+**❓ ¿Qué es la tipografía avanzada?**  
+✅ **Respuesta:**  
+Es el estudio y la práctica de la tipografía más allá de lo básico, incluyendo la comprensión de fuentes, licencias, combinaciones tipográficas y mejores prácticas para medios impresos y digitales.
+
+---
+
+### 💡 TARJETA 2  
+**❓ ¿Qué es una fuente OpenType?**  
+✅ **Respuesta:**  
+OpenType es una evolución de las fuentes PostScript Type 1 y TrueType, que permite más flexibilidad y opciones en tipografía digital. Asegura la compatibilidad con diferentes plataformas y es ideal para composición avanzada.
+
+---
+
+### 💡 TARJETA 3  
+**❓ ¿Por qué las fuentes variables son revolucionarias?**  
+✅ **Respuesta:**  
+Las fuentes variables permiten la manipulación de múltiples estilos y grosores de una sola fuente, lo que facilita una tipografía dinámica y flexible sin necesidad de cargar múltiples archivos de fuente.
+
+---
+
+### 💡 TARJETA 4  
+**❓ ¿Qué es la tipografía cromática?**  
+✅ **Respuesta:**  
+La tipografía cromática o color fonts permite el uso de múltiples colores dentro de una fuente, ofreciendo nuevas posibilidades creativas para el diseño digital.
+
+---
+
+### 💡 TARJETA 5  
+**❓ ¿Cómo elegir una fuente para la web?**  
+✅ **Respuesta:**  
+Es importante elegir fuentes que sean legibles en diferentes tamaños y resoluciones, y que complementen la estética y el propósito del sitio web.
+
+---
