@@ -298,7 +298,144 @@ Para estudiar de manera efectiva usando el método de John Dunlosky:
 ✔ **Espacia tu aprendizaje** en diferentes días para recordar mejor.  
 
 ---
-# Teoría del Diseño Tipográfico con Enfoque en Accesibilidad - Resumen Completo
+
+# Teoría del Diseño Tipográfico con Enfoque en Accesibilidad
+
+## 1️⃣ Introducción al Diseño Tipográfico
+
+El diseño tipográfico es la práctica de elegir y organizar tipos de letra para la comunicación visual. No solo se trata de la elección de una tipografía adecuada, sino también de garantizar que el texto sea legible y accesible para todos los usuarios, incluidas las personas con discapacidades visuales, cognitivas o de aprendizaje. La tipografía impacta directamente en la experiencia del usuario, su comprensión del contenido y su interacción con el diseño.
+
+## 2️⃣ Principios Básicos del Diseño Tipográfico
+
+El diseño tipográfico se basa en ciertos principios que aseguran una comunicación clara y efectiva:
+
+- **Legibilidad:** Se refiere a cuán fácil es leer el texto.
+- **Contraste:** La diferencia entre el color del texto y el fondo, esencial para la legibilidad.
+- **Espaciado:** El espacio entre letras (kerning), líneas (leading) y palabras.
+- **Jerarquía:** El uso de tamaños, pesos y estilos de fuente para organizar y guiar la lectura.
+
+## 3️⃣ Tipografía y Accesibilidad
+
+La accesibilidad tipográfica implica hacer que el texto sea legible y comprensible para personas con diversas discapacidades. Las pautas de accesibilidad, como las WCAG (Web Content Accessibility Guidelines), ayudan a garantizar que los diseños tipográficos sean inclusivos.
+
+### Características clave de una tipografía accesible:
+- **Contraste adecuado:** El texto debe tener suficiente contraste con el fondo para facilitar su lectura.
+- **Fuentes legibles:** Elegir fuentes que sean claras y fáciles de leer, como las fuentes sans-serif, que suelen ser más legibles en pantallas.
+- **Espaciado adecuado:** Un espaciado adecuado entre letras, palabras y líneas mejora la legibilidad.
+- **Evitar combinaciones confusas:** Evitar fuentes que se parecen demasiado o que dificultan la distinción de caracteres (por ejemplo, las letras b/d, p/q).
+
+## 4️⃣ Tipografía para Personas con Discapacidad Visual
+
+Las personas con discapacidades visuales, como baja visión o ceguera, pueden beneficiarse de ciertas características tipográficas. Algunas de las consideraciones más importantes son:
+
+- **Tamaño de fuente adecuado:** Fuentes más grandes y con un buen espaciado pueden ser más fáciles de leer.
+- **Uso de fuentes como Dyslexie Font:** Fuentes diseñadas específicamente para personas con dislexia mejoran la legibilidad al hacer que los caracteres sean más distinguibles.
+- **Contraste de color:** Usar un alto contraste entre el texto y el fondo facilita la lectura, especialmente para personas con baja visión.
+
+## 5️⃣ Tipografía para Personas con Dislexia
+
+La dislexia es una condición que afecta la habilidad para leer y escribir, y las personas con dislexia pueden tener dificultades con ciertos tipos de letra. Las fuentes diseñadas específicamente para disléxicos, como **Dyslexie Font**, están diseñadas para ser más legibles al evitar combinaciones de letras que pueden parecerse demasiado entre sí.
+
+### Características clave para fuentes accesibles para disléxicos:
+- **Distinción clara entre letras:** Diseñar letras con características únicas que las hagan fácilmente diferenciables.
+- **Mayor espaciado entre letras y líneas:** Esto ayuda a mejorar la lectura al reducir la "agitación visual".
+
+## 6️⃣ Accesibilidad en el Diseño Web: Pautas WCAG
+
+Las **Web Content Accessibility Guidelines (WCAG)** proporcionan pautas para mejorar la accesibilidad de los contenidos web, incluidas las consideraciones tipográficas:
+
+- **Contraste:** Se recomienda un contraste mínimo de 4.5:1 entre el texto y el fondo.
+- **Tamaño del texto:** El texto debe ser redimensionable sin pérdida de contenido o funcionalidad.
+- **Colores:** No debe depender únicamente del color para transmitir información.
+
+## 7️⃣ Fuentes para Diseños Impresos vs. Digitales
+
+El diseño tipográfico varía según el medio. En los medios digitales, las fuentes deben ser legibles en pantallas de diferentes tamaños y resoluciones, mientras que en los medios impresos el tipo de papel y la calidad de impresión pueden influir en la legibilidad.
+
+- **Fuentes para medios digitales:** Las fuentes sans-serif suelen ser más legibles en pantallas pequeñas y a baja resolución.
+- **Fuentes para medios impresos:** Las fuentes serif, con sus pequeños "pies" o adornos, suelen ser más fáciles de leer en papel, especialmente en tamaños de texto más grandes.
+
+## 8️⃣ Buenas Prácticas para el Diseño Tipográfico Accesible
+
+- **Usar una tipografía sans-serif para contenido digital**: Las fuentes como Arial, Helvetica o Verdana son más fáciles de leer en pantallas.
+- **Evitar el uso excesivo de fuentes decorativas o cursivas**: Pueden dificultar la lectura, especialmente en textos largos.
+- **Asegurar que el tamaño del texto sea legible**: El tamaño de la fuente debe ser suficientemente grande (generalmente 16px o más para texto en línea).
+- **Implementar espacios adecuados**: El espaciado entre palabras y líneas debe ser suficiente para evitar la congestión visual.
+
+---
+
+# 🃏 TARJETAS DE MEMORIA (FLASHCARDS)
+
+## 💡 TARJETA 1  
+**❓ ¿Qué es el diseño tipográfico?**  
+✅ **Respuesta:**  
+El diseño tipográfico se centra en la elección y organización de tipos de letra para facilitar la comunicación visual. También busca mejorar la legibilidad y la accesibilidad para todos los usuarios.
+
+---
+
+## 💡 TARJETA 2  
+**❓ ¿Qué es la accesibilidad tipográfica?**  
+✅ **Respuesta:**  
+Es el diseño tipográfico que tiene en cuenta las necesidades de los usuarios con diversas discapacidades, como la discapacidad visual, para garantizar que el texto sea legible y comprensible.
+
+---
+
+## 💡 TARJETA 3  
+**❓ ¿Qué factores son esenciales para una tipografía accesible?**  
+✅ **Respuesta:**  
+- Contraste adecuado.  
+- Fuentes legibles (como las sans-serif).  
+- Espaciado adecuado entre letras y líneas.  
+- Evitar combinaciones de letras confusas.
+
+---
+
+## 💡 TARJETA 4  
+**❓ ¿Qué fuentes son más adecuadas para personas con dislexia?**  
+✅ **Respuesta:**  
+Fuentes diseñadas específicamente para disléxicos, como **Dyslexie Font**, que presentan letras con formas claras y espaciado adecuado.
+
+---
+
+## 💡 TARJETA 5  
+**❓ ¿Qué recomienda las pautas WCAG sobre el contraste en texto?**  
+✅ **Respuesta:**  
+El contraste entre el texto y el fondo debe ser de al menos 4.5:1 para mejorar la legibilidad y accesibilidad.
+
+---
+
+## 💡 TARJETA 6  
+**❓ ¿Cuáles son las diferencias entre fuentes para medios digitales e impresos?**  
+✅ **Respuesta:**  
+- **Digitales:** Fuentes sans-serif son más legibles en pantallas pequeñas.  
+- **Impresos:** Fuentes serif son más legibles en papel, especialmente en tamaños grandes.
+
+---
+
+## 💡 TARJETA 7  
+**❓ ¿Por qué es importante el espaciado en el diseño tipográfico accesible?**  
+✅ **Respuesta:**  
+Un espaciado adecuado entre letras, palabras y líneas ayuda a evitar la congestión visual y mejora la legibilidad del texto.
+
+---
+
+## 💡 TARJETA 8  
+**❓ ¿Qué tamaño de fuente se recomienda para contenido digital?**  
+✅ **Respuesta:**  
+El tamaño de la fuente debe ser al menos 16px para garantizar la legibilidad en dispositivos digitales.
+
+---
+
+## 📌 Métodos de Estudio Recomendados  
+Para estudiar de manera efectiva usando el método de John Dunlosky:  
+✔ **Comprende** la teoría antes de memorizar.  
+✔ **Práctica la recuperación** con las tarjetas de memoria.  
+✔ **Explica los conceptos** en voz alta o a otra persona.  
+✔ **Espacia tu aprendizaje** en diferentes días para recordar mejor.
+
+---
+
+# Teoría del Diseño Tipográfico
 
 ## 1️⃣ Introducción al Diseño Tipográfico
 
