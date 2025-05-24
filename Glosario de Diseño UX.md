@@ -72,7 +72,7 @@
 
 ## E
 
-**Edge case (Caso extremo)::** Lo que sucede cuando las cosas salen mal y están fuera del control del usuario.
+**Edge case (Caso extremo):** Lo que sucede cuando las cosas salen mal y están fuera del control del usuario.
 **Elements (Elementos):** Bloques de construcción para crear un diseño.
 **Elevator pitch (Discurso de ascensor):** Una descripción corta y memorable que explica un concepto de una manera fácil de entender.
 **Empathize (Empatizar):** La fase del design thinking que implica conocer a tu usuario a través de la investigación.
@@ -151,7 +151,7 @@
 
 **Landmarks (Puntos de referencia):** Características — como barras de navegación, cuadros de búsqueda, barras laterales fijas y pies de página — utilizadas para dividir mucho texto en una página web y ayudar a mejorar el uso de la tecnología de asistencia.
 **Layout (Diseño):** La estructura que soporta cómo se organizan los componentes visuales en una página.
-**Layout grid (Cuadrícula de diseño):** Una serie de columnas y callejones que te permiten organizar elementos en un diseño.
+**Layout grid (Cuadrícula de diseño)::** Una serie de columnas y callejones que te permiten organizar elementos en un diseño.
 **Lorem ipsum:** Texto sin sentido de marcador de posición escrito en latín que puedes usar para mostrar dónde irá el contenido y cómo se diseñará una página.
 **Low fidelity (lo-fi) (Baja fidelidad (lo-fi)):** Un diseño que tiene una menor cantidad de complejidad y es menos refinado o pulido; llamado “lo-fi” para abreviar.
 **Low-fidelity prototypes (Prototipos de baja fidelidad):** Estructuras interactivas simples que proporcionan una idea básica de cómo se verán y se comportarán los productos.
@@ -171,7 +171,7 @@
 
 **Navigation (Navegación):** La forma en que los usuarios van de una página a otra en un sitio web.
 **Negative (white) space (Espacio negativo (blanco)):** Los espacios entre los elementos de un diseño.
-**Networking (Networking):** Interactuar con otras personas para desarrollar contactos profesionales y aprender más sobre una industria laboral.
+**Networking (Networking):** Interacción con otras personas para desarrollar contactos profesionales y aprender más sobre una industria laboral.
 **Next Billion Users (NBU) (Próximos Mil Millones de Usuarios):** Los mil millones de personas en todo el mundo que acceden a la web por primera vez.
 **Non-Disclosure Agreement (NDA) (Acuerdo de confidencialidad (NDA)):** Un contrato que otorga a una de las partes protección legal contra la otra parte que robe sus ideas o revele información propietaria antes de que se lance un producto.
 **Notetaker (Tomador de notas):** La persona que captura todas las ideas y comentarios de los revisores durante una crítica de diseño.
@@ -290,7 +290,7 @@
 
 **Value proposition (Propuesta de valor):** La razón por la que un consumidor debería usar un producto o servicio.
 **Variety (Variedad):** Diferenciar los elementos de tu diseño para añadir interés visual.
-**Visual balance (Equilibrio visual)::** La sensación de que un diseño está igualmente ponderado en ambos lados de su centro enfatizado.
+**Visual balance (Equilibrio visual):** La sensación de que un diseño está igualmente ponderado en ambos lados de su centro enfatizado.
 **Visual design (Diseño visual):** Cómo se presenta un producto o tecnología a los usuarios.
 **Visual designer (Diseñador visual):** Alguien que se centra en cómo se ve el producto o la tecnología.
 **Visual weight (Peso visual):** Una medida de la fuerza que un elemento ejerce para atraer la vista.
