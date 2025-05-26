@@ -1,0 +1,7 @@
+# Todo sobre los design sprints
+
+Hola, me llamo Jason y soy diseñador de interacciones en Google. El objetivo de un *design sprint* es tomar problemas realmente complejos y reunirte con otras personas de tu equipo, como jefes de producto, ingenieros y marketing, e intentar resolver ese problema juntos. Lo haces a lo largo de una semana. Realizamos múltiples actividades de diseño, desde esquemas de página y prototipos, y luego, al final de la semana, hacemos pruebas con los usuarios. Es una forma muy buena de obtener comentarios rápidos y poner a prueba esas hipótesis iniciales.
+
+Por eso es tan importante reunir a personas con múltiples perspectivas. Ahora bien, puede que usted aporte esta nueva perspectiva fresca y puede que tenga a otra persona con conocimientos históricos en este proyecto. Pero también estamos reuniendo a gente de la gestión de productos y del marketing para aportar todas estas perspectivas únicas. Creo que esto demuestra que la esencia de los *sprints* es la **inclusividad**.
+
+Realmente queremos reunir a gente con múltiples perspectivas para hacer aflorar esta multitud de ideas. Siempre es importante entender quiénes son tus participantes, y asegurarte de que esta experiencia global es reflexiva. Pones las necesidades de todos en primer lugar. Creo que es, en cierto modo, una versión condensada de tu trabajo de experiencia del usuario. Donde, ahora mismo, cuando estás diseñando un *Sprint*, estos participantes son tus usuarios, y es importante entender sus necesidades y ponerlas en primer lugar cuando diseñas un *Sprint*.
