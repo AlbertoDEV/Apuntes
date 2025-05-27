@@ -1,0 +1,63 @@
+# Introducción a la fase de definición
+
+Has explorado cómo entrevistar a los usuarios y empatizar con ellos, identificar sus **puntos de dolor** y crear **arquetipos de usuario** para guiar las decisiones de **diseño centrado en el usuario**. También has explorado cómo sintetizar tu trabajo de empatía en **historias de usuarios** y **mapas del recorrido del usuario**. Las historias de usuario y los mapas de viaje son puentes importantes entre la fase de empatía y la fase de definición del proceso de *design thinking*.
+
+---
+
+### Flujo de procesos que representa el marco de Design Thinking
+
+Flujo de procesos que representa el marco de Design Thinking: 1. Empatizar, 2. **Definir** (resaltado), 3. Idear, 4. Prototipar y 5. Probar.
+
+A medida que los diseñadores pasan a la fase de definición, utilizarán su trabajo de empatía para responder a estas preguntas clave:
+
+* ¿Qué **necesidades o problemas** de mis usuarios son los más importantes que debe abordar mi diseño?
+* ¿Cómo podría mi diseño abordar estas necesidades o problemas de formas eficaces y únicas que **creen valor** para los usuarios?
+
+Ahora explorarás cómo los diseñadores se basan en sus historias de usuario y en los mapas del recorrido del usuario para identificar problemas específicos de los usuarios y plantear hipótesis de solución.
+
+---
+
+### Planteamiento del problema
+
+Con las historias de usuario y los mapas de recorrido del usuario delante, un diseñador puede identificar mejor las necesidades del usuario que su diseño debe abordar. Aquí es donde entran en juego los **planteamientos del problema**: Un planteamiento del problema resume quién es el usuario, qué necesita de un diseño y por qué. He aquí una plantilla sencilla:
+
+`[Nombre de la persona de usuario] es un [tipo de usuario] que necesita [tipo de experiencia del usuario] porque [beneficios de la experiencia del usuario].`
+
+Por ejemplo, he aquí el planteamiento del problema que el diseñador de la panadería creó para Berta:
+
+"**Berta** es una persona mayor con discapacidad visual. Es clienta de la panadería desde hace mucho tiempo y prefiere hacer los pedidos por teléfono. Necesita un sitio web y un sistema de pedidos en línea que sean fáciles de usar, se adapten a sus necesidades visuales e imiten la sensación y el flujo de una conversación telefónica cordial. Quiere hacer sus pedidos con facilidad y sentir que establece una conexión personal con la panadería."
+
+---
+
+### Declaraciones de hipótesis
+
+Las **declaraciones de hipótesis** ayudan a los diseñadores a pasar de la definición de los problemas a la ideación de soluciones. Al elaborar una declaración de hipótesis, el diseñador hace una conjetura sobre cuál podría ser la mejor solución al problema que identificó en su planteamiento del problema. Las declaraciones de hipótesis pueden adoptar muchas formas, pero a menudo siguen una fórmula clásica de si/entonces:
+
+`Si [usuario] puede realizar [acción], entonces conseguirá [beneficio].`
+
+Por ejemplo, el diseñador del sitio web de la panadería podría basarse en el planteamiento del problema de Berta para crear una hipótesis como esta:
+
+"Si **Berta** puede hacer pedidos en línea con un sistema sencillo que imite la sensación y el flujo de una conversación telefónica amistosa, entonces seguirá sintiendo una conexión con la panadería."
+
+---
+
+### Propuestas de valor
+
+En el mejor de los casos, las **propuestas de valor** son declaraciones breves y convincentes sobre cómo el producto de un diseñador responde a las necesidades de los usuarios y crea un valor único para ellos. Las propuestas de valor pueden resumir y sintetizar los beneficios para el usuario a partir de múltiples enunciados de hipótesis.
+
+Para crear una propuesta de valor, los diseñadores suelen responder a estas preguntas clave:
+
+* **¿Qué hace el producto?** Aquí, los diseñadores exponen claramente las acciones clave que el producto permite realizar a los usuarios o los beneficios clave que les permite conseguir.
+* **¿Por qué debería importarle al usuario?** Aquí, los diseñadores hacen hincapié en cómo su producto aborda los puntos de dolor de los usuarios de formas únicas que no ofrecen otros productos.
+
+En el ejemplo de la panadería que hemos estado explorando, el diseñador podría crear una propuesta de valor como esta:
+
+"El nuevo sitio web de la panadería ofrece un sistema de pedidos en línea racionalizado que imita la sensación y el flujo de una conversación telefónica amistosa. Este sistema es fácil de usar y permite a la base de clientes de la panadería hacer pedidos en línea manteniendo al mismo tiempo una valiosa sensación de conexión personal con el personal de la panadería."
+
+---
+
+### Puntos clave
+
+En la fase de definición del *design thinking*, los diseñadores se basan en su trabajo de empatía para identificar problemas específicos de los usuarios y plantear hipótesis sobre posibles soluciones. Estos problemas y soluciones deben surgir de una rica comprensión de quiénes son los usuarios y de cómo experimentan el producto, incluidas las tareas específicas a las que se enfrentan y los sentimientos que aportan a esas tareas.
+
+Al desarrollar planteamientos del problema, hipótesis y propuestas de valor concisos y convincentes, los diseñadores están en mejor posición para empezar a idear soluciones que satisfagan realmente las necesidades de los usuarios. También están en mejor posición para convencer a las partes interesadas mostrando cómo sus soluciones se alinean con las experiencias de los usuarios reales y abordan los puntos de dolor de los usuarios reales.
