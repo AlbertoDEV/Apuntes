@@ -3,6 +3,7 @@
 Has elegido el siguiente *prompt* para tu primer proyecto de portafolio:
 
 **"Diseña una aplicación de reserva de eventos especiales para un pub moderno."**
+**"Design a special event reservation app for a mordern pub."**
 
 ---
 
