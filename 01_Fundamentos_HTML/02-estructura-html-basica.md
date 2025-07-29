@@ -21,21 +21,22 @@ Cualquier documento HTML que crees siempre tendrá estas partes principales:
     <p>Esta es mi primera página web.</p>
 </body>
 </html>
+```
 
 Vamos a desglosar cada una de estas partes cruciales:
 
-<!DOCTYPE html>:Esto es como la declaración de intenciones. Le dice al navegador que este documento es un archivo HTML5, la versión más reciente de HTML. Siempre va al principio.
+- `<!DOCTYPE html>`: Esto es como la **declaración de intenciones**. Le dice al navegador que este documento está escrito en **HTML5**, la versión más reciente del lenguaje. Siempre debe ir al principio del archivo.
 
-<html lang="es">...</html>: Esta es la etiqueta raíz de todo el documento. Todo lo demás va dentro de ella. El atributo lang="es" le indica al navegador (y a los lectores de pantalla) que el idioma principal del contenido es el español, lo cual es bueno para la accesibilidad y el SEO.
+- `<html lang="es">...</html>`: Esta es la **etiqueta raíz** de todo el documento. Todo el contenido debe ir dentro de ella. El atributo `lang="es"` indica que el idioma principal es español, lo cual es útil para la accesibilidad y el SEO.
 
-<head>...</head>: Piensa en el <head> como el "cerebro" o la "cabeza" de tu página. Contiene información sobre el documento que no es visible directamente para el usuario, pero es vital para el navegador y los motores de búsqueda. Aquí se incluyen cosas como:
+- `<head>...</head>`: Piensa en el `<head>` como el **"cerebro"** de tu página. Contiene información **sobre** el documento (no visible directamente para el usuario) que es vital para el navegador y los motores de búsqueda. Aquí se incluyen elementos como:
 
-<meta charset="UTF-8">: Define la codificación de caracteres del documento. UTF-8 es el estándar y permite mostrar correctamente casi cualquier carácter de cualquier idioma (¡adiós a los caracteres raros!).
+  - `<meta charset="UTF-8">`: Define la **codificación de caracteres** del documento. UTF-8 es el estándar universal, compatible con casi todos los caracteres de todos los idiomas. (¡Adiós a los caracteres extraños!)
 
-<meta name="viewport" content="width=device-width, initial-scale=1.0">: Esta metaetiqueta es crucial para el diseño web responsivo. Le dice al navegador cómo debe escalar la página en diferentes dispositivos (móviles, tablets, etc.) para que se vea bien en todas partes.
+  - `<meta name="viewport" content="width=device-width, initial-scale=1.0">`: Esta metaetiqueta es esencial para el diseño **responsivo**. Le dice al navegador cómo escalar la página en distintos dispositivos para que se vea bien tanto en móviles como en computadoras.
 
-<title>Mi Primera Página Web</title>: El título de tu página, que aparece en la pestaña del navegador o en la ventana. Es muy importante para la usabilidad y el SEO.
+  - `<title>Mi Primera Página Web</title>`: Define el **título** de tu página, que aparece en la pestaña del navegador. Es importante tanto para la experiencia del usuario como para el SEO.
 
-Aquí también se enlazan los archivos CSS y JavaScript externos, pero eso lo veremos más adelante.
+  Aquí también se pueden enlazar archivos CSS y JavaScript externos (lo veremos más adelante).
 
-<body>...</body>: Este es el "cuerpo" de tu página, donde reside todo el contenido visible que los usuarios verán e interactuarán: textos, imágenes, videos, enlaces, formularios, etc. Si no está en el <body>, no aparecerá en la página.
+- `<body>...</body>`: Este es el **"cuerpo"** de tu página. Contiene **todo el contenido visible**: textos, imágenes, videos, enlaces, formularios, etc. Si algo no está dentro del `<body>`, **no se mostrará** en la página.
