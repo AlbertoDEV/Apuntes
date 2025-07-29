@@ -21,11 +21,10 @@ Cualquier documento HTML que crees siempre tendrá estas partes principales:
     <p>Esta es mi primera página web.</p>
 </body>
 </html>
-```
 
 Vamos a desglosar cada una de estas partes cruciales:
 
-<!DOCTYPE html>: Esto es como la declaración de intenciones. Le dice al navegador que este documento es un archivo HTML5, la versión más reciente de HTML. Siempre va al principio.
+<!DOCTYPE html>:Esto es como la declaración de intenciones. Le dice al navegador que este documento es un archivo HTML5, la versión más reciente de HTML. Siempre va al principio.
 
 <html lang="es">...</html>: Esta es la etiqueta raíz de todo el documento. Todo lo demás va dentro de ella. El atributo lang="es" le indica al navegador (y a los lectores de pantalla) que el idioma principal del contenido es el español, lo cual es bueno para la accesibilidad y el SEO.
 
