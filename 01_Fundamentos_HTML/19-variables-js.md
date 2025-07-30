@@ -1,4 +1,3 @@
----
 
 ### 📝 Variables: Los Contenedores de Información de JavaScript
 
