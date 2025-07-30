@@ -1,4 +1,3 @@
----
 
 ### 🧠 ¿Qué es JavaScript y para qué sirve en la web?
 
